@@ -1,3 +1,3 @@
 Janus XR
 1. VR ART GALLERY-
-   Overview~ 
+   Overview~ The VR Art gallery contains
