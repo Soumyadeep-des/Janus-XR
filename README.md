@@ -11,3 +11,15 @@ Voice commands offer a hands-free experience. Consumers can give voice commands 
 -Immersive Experience-
 The gallery can reproduce lighting, ambient noise, and realistic room acoustics to maximize immersion, making users feel as if they are within an actual art museum. Such a VR gallery unites visual design with interactive technology to provide an immersive way of experiencing art — perfect for education, entertainment, and digital exhibitions.
 
+2. Game Room Zone-
+overview~
+The Game Room Zone is a dynamic VR hub featuring strategy, reflex, and sports-based mini-games that showcase the full potential of immersive interaction.
+
+-3D Chess
+A modern twist on the classic strategy game, 3D Chess allows users to pick up, move, and place chess pieces using hand tracking or VR controllers. The pieces are fully animated, and the game is played on a three-dimensional board that users can walk around, offering different perspectives and deeper immersion. The intuitive controls and spatial gameplay make the experience feel both natural and engaging.
+
+-Gun Shoot
+Gun Shoot is a reflex-based VR shooting game where players use realistic gestures or controllers to aim and shoot at targets. It includes multiple difficulty levels and different types of targets such as static, moving, and timed ones. The game is designed to help improve hand-eye coordination, precision, and reaction time while offering a fun and challenging experience with visual and audio feedback.
+
+-Volleyball
+Volleyball in VR offers a highly interactive and physics-driven multiplayer sports experience. Players can serve, pass, and spike the ball using motion-based controls, replicating real-world movements. The court is designed for dynamic gameplay with accurate ball physics, making the experience feel authentic and competitive whether playing solo or with others.
