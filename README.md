@@ -12,7 +12,7 @@ Voice commands offer a hands-free experience. Consumers can give voice commands 
 The gallery can reproduce lighting, ambient noise, and realistic room acoustics to maximize immersion, making users feel as if they are within an actual art museum. Such a VR gallery unites visual design with interactive technology to provide an immersive way of experiencing art — perfect for education, entertainment, and digital exhibitions.
 
 2. Game Room Zone-
-overview~
+Overview~
 The Game Room Zone is a dynamic VR hub featuring strategy, reflex, and sports-based mini-games that showcase the full potential of immersive interaction.
 
 -3D Chess
