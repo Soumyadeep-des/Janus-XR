@@ -21,7 +21,6 @@ Gun Shoot is a VR shooting game that requires reflexes, in which players shoot t
 -Volleyball-
 VR Volleyball provides an extremely interactive and physics-based multiplayer sports experience. Players can serve, pass, and spike the ball with motion-based controls mimicking real-world movements. The court is laid out for dynamic gameplay with precise ball physics so the experience feels realistic and competitive whether playing alone or with friends.
 
-3. AR ALPHABET RECOGNITION-
+3. AR BOOK FOR KIDS: A TO Z INTERACTIVE LEARNING-
 Overview~
-The AR Alphabet Recognition Book is an interactive learning resource that employs Augmented Reality to teach children the alphabet in an immersive and engaging manner. By scanning book pages with a mobile device or tablet, 3D models, animations, and sound are activated in real time, animating each letter to life.
-
+The AR Book for Kids is an interactive learning experience where each letter of the alphabet brings a corresponding 3D object to life when viewed through the app's camera, making learning fun and engaging for children.
