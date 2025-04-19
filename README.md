@@ -20,3 +20,8 @@ A modern twist on the classic strategy game, 3D Chess allows users to pick up, m
 Gun Shoot is a reflex-based VR shooting game where players use realistic gestures or controllers to aim and shoot at targets. It includes multiple difficulty levels and different types of targets such as static, moving, and timed ones. The game is designed to help improve hand-eye coordination, precision, and reaction time while offering a fun and challenging experience with visual and audio feedback.
 -Volleyball-
 Volleyball in VR offers a highly interactive and physics-driven multiplayer sports experience. Players can serve, pass, and spike the ball using motion-based controls, replicating real-world movements. The court is designed for dynamic gameplay with accurate ball physics, making the experience feel authentic and competitive whether playing solo or with others.
+
+3.AR ALPHABET RECOGNITION-
+Overview~
+The AR Alphabet Recognition Book is an interactive learning resource that employs Augmented Reality to teach children the alphabet in an immersive and engaging manner. By scanning book pages with a mobile device or tablet, 3D models, animations, and sound are activated in real time, animating each letter to life.
+
