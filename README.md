@@ -23,4 +23,4 @@ VR Volleyball provides an extremely interactive and physics-based multiplayer sp
 
 3. AR BOOK FOR KIDS: A TO Z INTERACTIVE LEARNING-
 Overview~
-The AR Book for Kids is an interactive learning experience where each letter of the alphabet brings a corresponding 3D object to life when viewed through the app's camera, making learning fun and engaging for children.
+Kids' AR Book is an immersive learning experience where every letter of the alphabet causes a corresponding 3D object to appear when looked at through the app's camera, which makes learning fun and interactive for kids.
