@@ -19,5 +19,3 @@ Kids' AR Book is an immersive learning experience where every letter of the alph
 Consumers navigate the gallery using handheld VR controllers to walk around, teleport from one room to another, zoom in on paintings, spin sculptures, or grab information cards on the artists and pieces.
 -Voice Interaction-
 Voice commands offer a hands-free experience. When a person approaches an object, the audio guide plays automatically, creating a seamless and hands-free experience without the need for voice commands.
--Immersive Experience-
-The gallery can reproduce lighting, ambient noise, and realistic room acoustics to maximize immersion, making users feel as if they are within an actual art museum. Such a VR gallery unites visual design with interactive technology to provide an immersive way of experiencing art — perfect for education, entertainment, and digital exhibitions.
