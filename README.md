@@ -62,6 +62,36 @@ Also ignore Visual Studio files like:
 
 *.sln, *.vcxproj, *.sdf, and database files.
 
+6. Introductory Steps for VR in Unreal Engine-
+a. Understand VR Basics
+Before jumping into Unreal, understand how VR works—head tracking, hand controllers, input systems, and interaction design are essential concepts.
+
+b. Install Unreal Engine
+Download and install Unreal Engine via the Epic Games Launcher. Make sure you have the latest version that supports VR development.
+
+c. Prepare Your System for VR
+Ensure your VR headset (like Oculus, HTC Vive, or others) is properly set up and working on your system. Install necessary drivers and companion software (like SteamVR or Oculus app).
+
+d. Start a New VR Project
+Launch Unreal Engine and create a new project. Use the VR Template which comes with basic motion controls, teleportation, and interaction features already set up.
+
+e. Enable VR Plugins
+-Go to Edit > Plugins and make sure relevant VR plugins are enabled, such as:
+
+-OpenXR (recommended for cross-platform)
+
+-Oculus VR or SteamVR (based on your hardware)
+
+-XR Input
+
+-Restart Unreal after enabling plugins if needed.
+
+f. Set Up VR Preview
+In Unreal, click the drop-down beside the "Play" button and select VR Preview. This lets you test your experience directly in the headset.
+
+g. Begin Building VR Interactions
+Use the Blueprint or C++ system to build interactions like grabbing objects, teleporting, triggering events with hand gestures, etc.
+
 
 
 
