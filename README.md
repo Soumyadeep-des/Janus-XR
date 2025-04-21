@@ -82,8 +82,6 @@ e. Enable VR Plugins
 
 -Meta Quest-2, Meta Quest link, Meta Quest developers hub, Unreal Engine, VR Template 
 
--Oculus VR or SteamVR (depending on your hardware)
-
 -XR Input
 
 -Restart Unreal if necessary after enabling plugins.
