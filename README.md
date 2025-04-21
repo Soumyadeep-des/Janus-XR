@@ -19,3 +19,49 @@ Kids' AR Book is an immersive learning experience where every letter of the alph
 Consumers navigate the gallery using handheld VR controllers to walk around, teleport from one room to another, zoom in on paintings, spin sculptures, or grab information cards on the artists and pieces.
 -Voice Interaction-
 Voice commands offer a hands-free experience. When a person approaches an object, the audio guide plays automatically, creating a seamless and hands-free experience without the need for voice commands.
+
+5. Unreal Engine VR Project Setup:
+   a. Install Necessary Tools ~
+-Unreal Engine: Install through the Epic Games Launcher.
+
+-Visual Studio: Required for C++ projects and compiling. During installation, include the “Game Development with C++” and “Desktop Development with C++” workloads.
+
+-Git: Needed to manage your project’s version control.
+
+-(Optional) GitHub Desktop: A GUI for Git, useful if you prefer visual management over command line.
+
+b. Create Your VR Project in Unreal ~
+-Launch Unreal Engine and create a new project.
+
+-Choose "Games" category and select either a Blank project or the VR Template.
+
+-Choose Blueprint or C++, depending on your project needs.
+
+-Enable Starter Content if needed.
+
+-Name your project and choose a directory.
+
+-Once inside, go to Edit > Plugins and enable your VR plugin (like SteamVR or OpenXR depending on your headset).
+
+-Save and close the project.
+
+c. Set Up .gitignore~
+-Before you initialize Git, create a .gitignore file in your root project folder. This prevents large or unnecessary files from being tracked by Git.
+
+Exclude folders like:
+
+-Binaries/ – compiled files.
+
+-DerivedDataCache/ – temporary assets.
+
+-Intermediate/ – build intermediates.
+
+-Saved/ – autosaves, logs, and backups.
+
+Also ignore Visual Studio files like:
+
+*.sln, *.vcxproj, *.sdf, and database files.
+
+
+
+
